@@ -1,0 +1,62 @@
+{
+  "name": "vscode-javascript-editing-extension-pack",
+  "version": "1.0.0",
+  "publisher": "p42ai",
+  "displayName": "JavaScript Editing Extension Pack",
+  "description": "7 extensions that improve your JavaScript and TypeScript editing experience.",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#323330",
+    "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "node",
+    "javascript",
+    "typescript",
+    "react",
+    "editing",
+    "editor",
+    "lint",
+    "quick-lint",
+    "prettier",
+    "type ahead",
+    "refactor",
+    "refactoring",
+    "fix",
+    "autocomplete",
+    "quick fix",
+    "code action",
+    "spell check",
+    "error"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "scripts": {
+    "package": "vsce package --yarn"
+  },
+  "devDependencies": {
+    "vsce": "^2.6.3"
+  },
+  "extensionPack": [
+    "GitHub.copilot",
+    "esbenp.prettier-vscode",
+    "mattpocock.ts-error-translator",
+    "quick-lint.quick-lint-js",
+    "streetsidesoftware.code-spell-checker",
+    "p42ai.refactor",
+    "usernamehw.errorlens"
+  ],
+  "homepage": "https://github.com/p42ai/vscode-javascript-editing-extension-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p42ai/vscode-javascript-editing-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p42ai/vscode-javascript-editing-extension-pack/issues"
+  },
+  "license": "MIT"
+}
