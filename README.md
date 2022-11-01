@@ -16,7 +16,7 @@ Six extensions that improve the JavaScript & TypeScript editing experience in [V
 ## [quick-lint-js](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js&ssr=false)
 [![quick-lint-js example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/quick-lint-js.png)](https://marketplace.visualstudio.com/items?itemName=quick-lint.quick-lint-js&ssr=false)
 
-The **[quick-lint-js](https://quick-lint-js.com/)** linter is an excellent alternative to [ESLint](https://eslint.org/) when you primarily want to check for code correctness. It provides a fixed set of rules for TypeScript and JavaScript and is extremely fast. 
+**[quick-lint-js](https://quick-lint-js.com/)** is an excellent alternative to [ESLint](https://eslint.org/) when you primarily want to check for code correctness. It provides a fixed set of rules for TypeScript and JavaScript and is extremely fast. 
 
 ## [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false)
 [![Code Spell Checker example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/code-spell-checker.png)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false)
@@ -26,9 +26,9 @@ The **[quick-lint-js](https://quick-lint-js.com/)** linter is an excellent alter
 ## [P42 JS Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)
 [![P42 JS Assistant example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/p42-js-assistant.png)](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)
 
-The **[P42 JS Assistant extension](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)** provides automated code actions and suggests refactorings that make your code more readable and modern.
+**[P42 JS Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)** provides automated code actions and suggests refactorings that make your code more readable and modern.
 
 ## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)
 [![Error Lens example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/error-lens.png)](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)
 
-The **[Error Lens extension](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)** shows the diagnostic messages on the same line in the editor, saving you time and keeping you in the flow.
+**[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)** shows the diagnostic messages on the same line in the editor, saving you time and keeping you in the flow.
