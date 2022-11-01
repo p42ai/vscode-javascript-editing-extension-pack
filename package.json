@@ -1,9 +1,9 @@
 {
   "name": "vscode-javascript-editing-extension-pack",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "publisher": "p42ai",
   "displayName": "JavaScript Editing Extension Pack",
-  "description": "7 extensions that improve your JavaScript and TypeScript editing experience.",
+  "description": "6 great extensions for productive Javascript and TypeScript editing.",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#323330",
@@ -44,7 +44,6 @@
   "extensionPack": [
     "GitHub.copilot",
     "esbenp.prettier-vscode",
-    "mattpocock.ts-error-translator",
     "quick-lint.quick-lint-js",
     "streetsidesoftware.code-spell-checker",
     "p42ai.refactor",
