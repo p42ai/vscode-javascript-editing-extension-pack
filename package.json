@@ -1,6 +1,6 @@
 {
   "name": "vscode-javascript-editing-extension-pack",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "publisher": "p42ai",
   "displayName": "JavaScript Editing Extension Pack",
   "description": "6 great extensions for productive Javascript and TypeScript editing.",
