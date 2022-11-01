@@ -21,14 +21,14 @@ The **[quick-lint-js](https://quick-lint-js.com/)** linter is an excellent alter
 ## [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false)
 [![Code Spell Checker example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/code-spell-checker.png)](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false)
 
-**[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false) helps you spot and correct typos** early.
+**[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker&ssr=false)** helps you spot and correct typos early.
 
 ## [P42 JS Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)
 [![P42 JS Assistant example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/p42-js-assistant.png)](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)
 
-The **[P42 JS Assistant extension](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)** provides many **automated code actions** and **suggests refactorings** that make your code more readable and modern.
+The **[P42 JS Assistant extension](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor&ssr=false)** provides automated code actions and suggests refactorings that make your code more readable and modern.
 
 ## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)
 [![Error Lens example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/error-lens.png)](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)
 
-The **[Error Lens extension](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false) shows the diagnostic messages on the same line in the editor**, saving you time and keeping you in the flow.
+The **[Error Lens extension](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens&ssr=false)** shows the diagnostic messages on the same line in the editor, saving you time and keeping you in the flow.
