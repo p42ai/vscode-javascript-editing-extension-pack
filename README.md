@@ -1,7 +1,5 @@
 # JavaScript / TypeScript Editing Extension Pack
-Six extensions that improve the JavaScript & TypeScript editing experience in [Visual Studio Code](https://code.visualstudio.com/). 
-
-<!-- [Learn more in this blog post](https://p42.ai/blog/TODO). -->
+Six extensions that improve the JavaScript & TypeScript editing experience in Visual Studio Code. [Learn more in this blog post](https://p42.ai/blog/2022-11-01/6-vs-code-extensions-for-productive-javascript-and-typescript-editing).
 
 ## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&ssr=false)
 [![GitHub Copilot Example](https://p42.ai/image/blog/2022-11-01-6-vs-code-extensions-for-productive-javascript-and-typescript-editing/copilot.png)](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&ssr=false)
